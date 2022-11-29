@@ -9,3 +9,6 @@ If our dataset is small, we can detect the outlier by just looking at the datase
 - Boxplots
 - Z-score
 - Inter Quantile Range(IQR)
+
+
+![image](https://user-images.githubusercontent.com/111793283/204646586-b707b65e-714c-4cd1-b78d-192cf04cd946.png)
