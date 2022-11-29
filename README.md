@@ -2,7 +2,7 @@
 
 **Detecting Outliers**
 
-**Below are some of the techniques of detecting outliers**
+Below are some of the techniques of detecting outliers
 
 - Boxplots
 - Z-score
