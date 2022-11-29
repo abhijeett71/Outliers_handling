@@ -13,6 +13,6 @@
 
 Below are some of the methods of treating the outliers
 
--Trimming/removing the outlier
--Quantile based flooring and capping
--Mean/Median imputation
+- Trimming/removing the outlier.
+- Quantile based flooring and capping.
+- Mean/Median imputation.
