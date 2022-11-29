@@ -9,6 +9,11 @@ Below are some of the techniques of detecting outliers
 - Inter Quantile Range(IQR)
 
 
+
+
+
+
+
 **Handling Outliers**
 
 Below are some of the methods of treating the outliers
